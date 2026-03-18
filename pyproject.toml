@@ -9,6 +9,6 @@ dependencies = ["Pillow", "numpy", "torch"]
 Repository = "https://github.com/g4brielelori-byte/Preprocessor_ContactSheet"
 
 [tool.comfy]
-PublisherId = "GabrieleLoriAI"
+PublisherId = "gabrielelori"
 DisplayName = "Preprocessor Contact Sheet"
 Icon = ""
